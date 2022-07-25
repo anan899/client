@@ -5,6 +5,8 @@
     return response.json();
 }      ;
 
+//aa
+
 const addBeauty = async (Name,Spouse,Title,Intro) => {
     const response = await fetch('https://beauty-form.herokuapp.com/beauty', {
         method: 'POST',
