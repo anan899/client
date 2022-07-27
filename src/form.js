@@ -90,7 +90,7 @@ export default function CreateForm() {
                     <button  id = "2" type= 'reset'
                              onClick={clearForm}
                     >
-                        Clear Form
+                        Clear Form quickly!
                     </button>
                 </div>
             </form>
