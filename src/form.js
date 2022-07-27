@@ -85,7 +85,7 @@ export default function CreateForm() {
 
                 <div className = "press">
                     <button  id = "1"  type = 'submit'>
-                        Add Beauty
+                        Add Beauty quickly
                     </button>
                     <button  id = "2" type= 'reset'
                              onClick={clearForm}
